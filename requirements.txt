@@ -1,0 +1,10 @@
+# Requirements for Gemini Chatbot with PDF Knowledge
+streamlit==1.30.0
+google-generativeai==0.3.2
+langchain==0.1.11
+langchain-google-genai==0.0.7
+langchain-community==0.0.19
+langchain-core==0.1.28
+langchain-text-splitters==0.0.1
+faiss-cpu==1.7.4
+pypdf==3.17.1
