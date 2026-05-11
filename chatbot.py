@@ -9,7 +9,7 @@ from langchain_community.document_loaders import PyPDFLoader
 # ─────────────────────────────────────────────────────────────────────────────
 # 1. API Key Setup
 # ─────────────────────────────────────────────────────────────────────────────
-api_key = "AIzaSyBu0be3hZSr9Ldo7mTMkcMWCiqQPOd6VKo"
+api_key = "*****************************************"
 genai.configure(api_key=api_key)
 st.set_page_config(page_title="Gemini Chatbot", page_icon="💬")
 
